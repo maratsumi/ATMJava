@@ -20,7 +20,6 @@ public class ATMJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
         InputStreamReader input = new InputStreamReader(System.in);
         BufferedReader reader = new BufferedReader(input);
 
