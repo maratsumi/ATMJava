@@ -27,6 +27,7 @@ public class ATMJava {
         boolean loginReq = false;
 
         PrintLn("Welcome to Vitug's ATM Machine !");
+        PrintLn("NOTE: Based off my original C++ version"):;
 
         while(!loginReq){
             char verify = 'n';
